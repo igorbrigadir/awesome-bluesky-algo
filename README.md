@@ -2,6 +2,10 @@
 
 Like the repository exploring the [Twitter Algo](https://github.com/igorbrigadir/awesome-twitter-algo) but for Bluesky.
 
+## Algorithmic Choice
+
+See Post from the blog: https://blueskyweb.xyz/blog/3-30-2023-algorithmic-choice
+
 ## What's hot Tab
 
 If the post isn't marked as `'corpse', 'self-harm', 'porn', 'sexual'` by [hive](https://hivemoderation.com/visual-moderation)[^1] and has Likes `>= 12`[^2]
