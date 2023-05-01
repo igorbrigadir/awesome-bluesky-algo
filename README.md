@@ -4,6 +4,7 @@ Like the repository exploring the [Twitter Algo](https://github.com/igorbrigadir
 
 ## What's hot Tab
 
-`If Likes is >= 8`[^1]
+If the post isn't marked as `'corpse', 'self-harm', 'porn', 'sexual'` by [hive](https://hivemoderation.com/visual-moderation)[^1] and has Likes `>= 12`[^2]
 
-[^1]: Code: https://github.com/bluesky-social/atproto/blob/4b70b80bd0f1bc7181ddeb1c58aaed7378366733/packages/pds/src/app-view/api/app/bsky/unspecced.ts#L24
+[^1]: Post: https://bsky.app/profile/why.bsky.team/post/3jup5dzutcu2f
+[^2]: Code: https://github.com/bluesky-social/atproto/blob/1e24d3e820f75e0ad86ea6f9e5ebf181a9c8c88e/packages/pds/src/app-view/api/app/bsky/unspecced.ts#L38
